@@ -1,4 +1,5 @@
-### Updated Exploit ms16-032 to get a Beacon back
+### Updated Exploit ms16-032 to get a Beacon with System Priviledges
+[More Infos here] (https://pentestlab.blog/2017/04/07/secondary-logon-handle/)
 
 You need a unpriviledged Shell/Beacon on the target. Don't forget to change the exploit for your correct ListenerName 
 ```
