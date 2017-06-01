@@ -15,8 +15,7 @@ System beacon calls back :)
 
 Delete Beacon:
 beacon> shell del C:\Windows\Temp\ms16-032_beacon.ps1
+
 Delete Task:
 beacon> shell schtasks /Delete /TN UpdateSRV /F
-[*] Tasked beacon to run: schtasks /Delete /TN UpdateSRV /F
-SUCCESS: The scheduled task "UpdateSRV" was successfully deleted.
 ```
